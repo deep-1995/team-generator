@@ -22,7 +22,7 @@ To see my portfolio  [click on](https://deep-1995.github.io/bootstrap-portfolio/
 
 
 ## Support instructions
-Please [open the issue](https://github.com/deep-1995/bootstrap-portfolio/issues) for support.
+Please [open the issue](https://github.com/deep-1995/team-generator/issues) for support.
 
 ## Contributing instructions
-Please contribute using Github Flow. Create a branch, add commits, and [open a pull request](https://github.com/deep-1995/bootstrap-portfolio/pulls).
+Please contribute using Github Flow. Create a branch, add commits, and [open a pull request](https://github.com/deep-1995/team-generator/pulls).
