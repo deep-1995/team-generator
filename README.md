@@ -11,7 +11,7 @@ This app used to generate list of team members by using node js.
 
 
 ## video
-[![Watch the video how to use this app](https://github.com/deep-1995/readme-generator/blob/master/assets/image/readme%20file.png)](https://www.youtube.com/watch?v=gXdwBbcjBlU)
+[![Watch the video how to use this app](https://github.com/deep-1995/team-generator/blob/master/assets/image/Screen%20Shot%202020-06-13%20at%201.53.50%20PM.png)](https://youtu.be/dVDMFvw3JB4)
 
 
 
