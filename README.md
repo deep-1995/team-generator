@@ -10,6 +10,10 @@ This app used to generate list of team members by using node js.
 5. open teamRoster.html page in browser.
 
 
+## video
+[![Watch the video how to use this app](https://github.com/deep-1995/readme-generator/blob/master/assets/image/readme%20file.png)](https://www.youtube.com/watch?v=gXdwBbcjBlU)
+
+
 
 ## Open instructions
 To see my portfolio  [click on](https://deep-1995.github.io/bootstrap-portfolio/). 
